@@ -47,6 +47,8 @@ h1 {
 }
 
 
+
+
 * {
     box-sizing:border-box;
 }
@@ -134,4 +136,15 @@ h1 {
 
 div {
    font-family: myFirstFont;
+}
+#carousel-example-generic {
+  max-width: 100%;
+  max-height: 669px;
+  position: relative;
+}
+
+.carousel-inner {
+  max-width: 100%;
+  max-height: 669px;
+  position: relative;
 }
