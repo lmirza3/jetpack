@@ -1,0 +1,22 @@
+/*
+	Lens by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+/* Thumbnails */
+/* line 15, /Users/lubnamirza/Dropbox/jetpack/assets/sass/ie9.scss */
+#thumbnails:after {
+  content: '';
+  display: block;
+  clear: both; }
+
+/* line 21, /Users/lubnamirza/Dropbox/jetpack/assets/sass/ie9.scss */
+#thumbnails article {
+  float: left; }
+
+/* Viewer */
+/* line 31, /Users/lubnamirza/Dropbox/jetpack/assets/sass/ie9.scss */
+#viewer .slide .caption {
+  background-color: rgba(255, 255, 255, 0.5); }
+
+/*# sourceMappingURL=ie9.css.map */
