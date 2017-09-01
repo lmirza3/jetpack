@@ -14,7 +14,7 @@
 		@include vendor('transition', ('opacity #{_duration(layout)} ease', 'width #{_duration(layout)} ease'));
 		position: absolute;
 		top: 0;
-		width: calc(100% - #{_size(main)});
+		width: calc(100% - 150);
 		height: 100%;
 
 		@if _misc(main-side) == 'left' {
